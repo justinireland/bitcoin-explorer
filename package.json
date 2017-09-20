@@ -1,0 +1,31 @@
+{
+  "name": "bitcoin-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "material-ui": "next",
+    "material-ui-icons": "^1.0.0-alpha.19",
+    "moment": "^2.18.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-event-timeline": "^1.3.3",
+    "react-infinite": "^0.12.1",
+    "react-infinite-any-height": "^2.0.1",
+    "react-redux": "^5.0.5",
+    "react-scripts": "1.0.10",
+    "react-swipeable-views": "^0.12.5",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.15.6",
+    "typeface-roboto": "0.0.31"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-decorators": "^6.24.1"
+  }
+}
